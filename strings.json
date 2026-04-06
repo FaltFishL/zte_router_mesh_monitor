@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "ZTE Router Mesh",
+        "description": "Enter router credentials",
+        "data": {
+          "host": "Router IP",
+          "username": "Username",
+          "password": "Password"
+        }
+      }
+    }
+  }
+}
