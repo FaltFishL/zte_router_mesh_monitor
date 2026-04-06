@@ -1,0 +1,10 @@
+{
+  "domain": "zte_router_mesh",
+  "name": "ZTE Router Mesh Monitor",
+  "version": "1.0.0",
+  "documentation": "",
+  "requirements": ["beautifulsoup4"],
+  "dependencies": [],
+  "codeowners": [],
+  "config_flow": true
+}
